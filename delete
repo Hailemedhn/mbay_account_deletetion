@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Account Deletion – Your App Name</title>
+</head>
+<body>
+  <h1>Delete your account</h1>
+
+  <p>To delete your account in <strong>Your App Name</strong>:</p>
+
+  <ol>
+    <li>Open the <strong>Your App Name</strong> app.</li>
+    <li>Log in with your account.</li>
+    <li>Go to <strong>Settings → Delete my account</strong>.</li>
+    <li>Confirm the deletion.</li>
+  </ol>
+
+  <p>For security reasons, accounts can only be deleted after logging in from inside the app.</p>
+</body>
+</html>
